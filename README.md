@@ -12,7 +12,7 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 
 ## 👤 Auteur
 
-- ** Prénom et Nom** : Awa Diaw  
+- **Prénom et Nom** : Awa Diaw  
 - **Ecole** : [ENSAE - Sénégal] (https://www/ensae.com)
 - **Date** : 10 Mai 2025  
 - **Contact** : diawa3002@gmail.com
