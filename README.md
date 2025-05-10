@@ -1,6 +1,6 @@
 # AwaDiaw_ExamenFinal_ProjetStatAvecR2025
-# Ade la Sécurité Alimentaire  
-*Projet de Traitement et Visualisation des Indicateurs Alimentaires et de Résilience*
+# Diagnostic quantitatif de la sécurité alimentaire : approche par indicateurs 
+*Examen - Cours projet Statistique avec R*
 
 ---
 
@@ -28,7 +28,7 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 | `janitor`        | Nettoyage et diagnostic des données                  |
 | `officer`        | Exportation vers Word                                |
 | `officedown`     | Mise en page avancée                                 |
-| `sf`, `tmap`     | Cartographie thématique                              |
+| `sf`, `sp`     | Cartographie thématique                              |
 
 ---
 
@@ -63,7 +63,7 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 📂 data/           # Données sources
 📂 script/        # Scripts R, Rmd
 📂 output/        # Résultats: tableaux, graphiques, word
-📂 figures/        # Images, cartes et visualisations
+📂 figures/        # Images
 
 
 
