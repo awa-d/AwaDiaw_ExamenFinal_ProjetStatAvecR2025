@@ -65,25 +65,18 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 
 ## 📁 Arborescence du Projet
 
-📁 DevProjetStatAvecR2025/
+DevProjetStatAvecR2025/
 │
-├── 📂 data/                          # Données sources
-│   ├── 📂 shapefiles/               # Fichiers géographiques (.shp)
-│   └── 📂 fichiers_stata/           # Données au format .dta (Stata)
+├── data/                  → Données sources (Stata, shapefiles)
 │
-├── 📂 script/                        # Fichiers de scripts et d’analyse
-│   ├── 📂 rmarkdown/                # Fichiers .Rmd (rapports, présentations)
-│   └── 📂 analyse/                  # Scripts d'analyse (fichiers .R)
+├── script/                → Fichiers R et R Markdown
 │
-├── 📂 output/                        # Résultats générés
-│   ├── 📂 templates/                # Modèles de rendu ou mises en page
-│   └── 📂 rapports_finaux/         # Versions finales du devoir (PDF, Word)
+├── output/                → Résultats produits (rapports, tableaux)
 │
-├── 📂 figures/                       # Graphiques, schémas, images
+├── figures/               → Graphiques et images
 │
-└── 📂 documentation/                # Ressources textuelles du projet
-    ├── 📂 questionnaires/          # Questionnaires et outils de collecte
-    └── 📂 notes/                   # Notes diverses pour le devoir
+└── documentation/         → Questionnaires, indicateurs, notes, README
+
   
 
 ---
