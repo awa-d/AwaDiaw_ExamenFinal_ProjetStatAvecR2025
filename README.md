@@ -65,12 +65,15 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 
 ## 📁 Arborescence du Projet
 
-📂 data/           # Données sources
-📂 script/        # Scripts R, Rmd
-📂 output/        # Résultats: tableaux, graphiques, word
-📂 figures/        # Images
-
-
+|------📂 data/           # Données sources
+|
+|------📂 script/        # Scripts R, Rmd
+|
+|------📂 output/        # Résultats: tableaux, graphiques, word
+|
+|------📂 figures/        # Images
+|
+|------📂 Documentation/        # Documents utils
 
 ---
 
