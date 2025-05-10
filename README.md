@@ -13,7 +13,7 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 ## 👤 Auteur
 
 - ** Prénom et Nom** : Awa Diaw  
-- **Institution** : ENSAE - Sénégal  
+- **Ecole** : [ENSAE - Sénégal] (https://www/ensae.com)
 - **Date** : 10 Mai 2025  
 - **Contact** : diawa3002@gmail.com
 
@@ -60,12 +60,16 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 
 ## 📁 Arborescence du Projet
 
+📂 data/           # Données sources
+📂 script/        # Scripts R, Rmd
+📂 output/        # Résultats: tableaux, graphiques, word
+📂 figures/        # Images, cartes et visualisations
 
 
 
 ---
 
-> ✨ *Projet réalisé dans le cadre du cours de Projet Statistique avec R - 10 mai 2025 – ENSAE Sénégal*  
+> ✨ *Projet réalisé dans le cadre du cours de Projet Statistique avec R – ENSAE Sénégal*  
 > Encadré par M. Aboubacar Hema,[Analyste de Recherche à l'IFPRI](https://www.ifpri.org/profile/aboubacar-hema)
 
 ---
