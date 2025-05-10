@@ -1,21 +1,21 @@
 # AwaDiaw_ExamenFinal_ProjetStatAvecR2025
-# 📊 Analyse Multidimensionnelle de la Sécurité Alimentaire  
+# Ade la Sécurité Alimentaire  
 *Projet de Traitement et Visualisation des Indicateurs Alimentaires et de Résilience*
 
 ---
 
 ## 📝 Résumé
 
-Ce projet explore et visualise des indicateurs clés liés à la **sécurité alimentaire**, à la **nutrition** et à la **résilience des ménages**. En utilisant des données d’enquêtes socioéconomiques, nous produisons des tableaux descriptifs, des cartes thématiques et des visualisations interactives. L’approche repose sur les outils du **tidyverse** et des packages dédiés à la communication scientifique en R.
+Ce projet explore et visualise des indicateurs clés liés à la **sécurité alimentaire**, à la **nutrition** et à la **résilience des ménages**. En utilisant des données d’enquêtes socioéconomiques, nous produisons des tableaux descriptifs, des cartes thématiques et des visualisations interactives. L’approche repose sur les outils du **tidyverse**, **janitor**, **gtsummary**, **officer**, entre autres.
 
 ---
 
 ## 👤 Auteur
 
-- **Nom** : [Ton Nom]  
+- ** Prénom et Nom** : Awa Diaw  
 - **Institution** : ENSAE - Sénégal  
-- **Date** : Mai 2025  
-- **Contact** : [ton.email@example.com]
+- **Date** : 10 Mai 2025  
+- **Contact** : diawa3002@gmail.com
 
 ---
 
