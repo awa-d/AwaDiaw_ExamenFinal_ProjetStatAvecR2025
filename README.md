@@ -34,11 +34,16 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 
 ## 📈 Indicateurs Analytiques
 
-- 🥗 **SCA** : Score de Consommation Alimentaire  
-- 🆘 **rCSI** : Indice Réduit des Stratégies de Survie  
-- 🛠️ **LhCSI** : Stratégies d’Adaptation des Moyens d’Existence  
-- 🍛 **HDDS** : Score de Diversité Alimentaire  
-- 💪 **SERS** : Score de Résilience Auto-évaluée  
+- 🥗 **SCA** : Score de Consommation Alimentaire
+  
+- 🆘 **rCSI** : Indice Réduit des Stratégies de Survie
+  
+- 🛠️ **LhCSI** : Stratégies d’Adaptation des Moyens d’Existence
+    
+- 🍛 **HDDS** : Score de Diversité Alimentaire
+  
+- 💪 **SERS** : Score de Résilience Auto-évaluée
+  
 - 👶 **MAD** : Régime Alimentaire Minimum Acceptable  
 
 ---
