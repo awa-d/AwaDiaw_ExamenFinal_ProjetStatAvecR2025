@@ -65,15 +65,23 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 
 ## 📁 Arborescence du Projet
 
-|------📂 data/           # Données sources
-|
-|------📂 script/        # Scripts R, Rmd
-|
-|------📂 output/        # Résultats: tableaux, graphiques, word
-|
-|------📂 figures/        # Images
-|
-|------📂 Documentation/        # Documents utils
+📁 DevProjetStatAvecR2025/
+│
+├── 📂 data/                # Données sources 
+│   ├── shapefiles/               
+│   └── ficiers stata /             
+│
+├── 📂 script/              # fichiers R Markdown 
+│   └── Scripts d'analyse/         
+│
+├── 📂 output/              # Résultats générés
+│   ├── template/            
+│   └── le rendu/           # Rapports finaux (PDF, Word)
+│
+├── 📂 figures/             # Images
+│
+└── 📂 Documentation/       # Questionnaires indicateurs et notes pour le devoir
+    └── Fichiers clefs    
 
 ---
 
