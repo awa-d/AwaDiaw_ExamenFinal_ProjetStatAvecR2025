@@ -1,5 +1,5 @@
 # AwaDiaw_ExamenFinal_ProjetStatAvecR2025
-# Diagnostic quantitatif de la sécurité alimentaire : approche par indicateurs 
+# Diagnostic de la sécurité alimentaire au Tchad : approche par indicateurs 
 *Examen - Cours projet Statistique avec R*
 
 ---
@@ -9,7 +9,24 @@
 Ce projet explore et visualise des indicateurs clés liés à la **sécurité alimentaire**, à la **nutrition** et à la **résilience des ménages**. En utilisant des données d’enquêtes socioéconomiques, nous produisons des tableaux descriptifs, des cartes thématiques et des visualisations interactives. L’approche repose sur les outils du **tidyverse**, **janitor**, **gtsummary**, **officer**, entre autres.
 
 ---
+## État d’avancement de l’examen
 
+| Étape | Description | Statut |
+|-------|-------------|--------|
+| 1 | Analyse de consistance des bases de données | ✅ OK |
+| 2 | Analyse socio-démographique des ménages | ✅ OK |
+| 3 | Score de consommation alimentaire (SCA) | ✅ OK |
+| 4 | Indice réduit des stratégies de survie (rCSI) | ✅ OK |
+| 5 | Stratégies d'adaptation aux moyens d'existence (LhCSI) | ✅ OK |
+| 6 | Score de diversité alimentaire des ménages | 🔄 Commencé |
+| 7 | Score de résilience auto-évaluée (SERS) | ❌ NON |
+| 8 | Régime alimentaire minimum acceptable (MAD) | ❌ NON |
+| 9 | Analyse comparative des indicateurs selon le genre du chef de ménage | ❌ NON |
+| 10 | Proposition d’un outil de visualisation des indicateurs (R Shiny, Flourish, Dash...) | ❌ NON |
+| 11 | Mise à jour du livrable (output Word) | ✅ Dernière version uploaded |
+
+
+---
 ## 👤 Auteur
 
 - **Prénom et Nom** : Awa Diaw  
