@@ -25,7 +25,10 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 | 10 | Proposition d’un outil de visualisation des indicateurs (R Shiny, Flourish, Dash...) | ❌ NON |
 | 11 | Mise à jour du livrable (output Word) | ✅ Dernière version uploaded |
 
-
+### Amélioration :
+- Afficher les tableaux
+- Harmoniser format des tableaux
+- Tableaux gtsummary des variables avant chaque calcul d'indicateur. 
 ---
 ## 👤 Auteur
 
