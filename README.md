@@ -18,23 +18,23 @@ Ce projet explore et visualise des indicateurs clés liés à la **sécurité al
 | 3 | Score de consommation alimentaire (SCA) | ✅ OK |
 | 4 | Indice réduit des stratégies de survie (rCSI) | ✅ OK |
 | 5 | Stratégies d'adaptation aux moyens d'existence (LhCSI) | ✅ OK |
-| 6 | Score de diversité alimentaire des ménages | 🔄 Commencé |
-| 7 | Score de résilience auto-évaluée (SERS) | ❌ NON |
-| 8 | Régime alimentaire minimum acceptable (MAD) | ❌ NON |
+| 6 | Score de diversité alimentaire des ménages | ✅ OK |
+| 7 | Score de résilience auto-évaluée (SERS) | ✅ OK |
+| 8 | Régime alimentaire minimum acceptable (MAD) | ✅ OK |
 | 9 | Analyse comparative des indicateurs selon le genre du chef de ménage | ❌ NON |
 | 10 | Proposition d’un outil de visualisation des indicateurs (R Shiny, Flourish, Dash...) | ❌ NON |
 | 11 | Mise à jour du livrable (output Word) | ✅ Dernière version uploaded |
 
 ### Amélioration :
-- Afficher les tableaux
-- Harmoniser format des tableaux
-- Tableaux gtsummary des variables avant chaque calcul d'indicateur. 
+- Corriger les cartes pour les stratégies de survie
+- Revoir attentivement les codes
+- Conclusion plus court
 ---
 ## 👤 Auteur
 
 - **Prénom et Nom** : Awa Diaw  
 - **Ecole** : [ENSAE - Sénégal] (https://www/ensae.com)
-- **Date** : 10 Mai 2025  
+- **Date** : Mai 2025  
 - **Contact** : diawa3002@gmail.com
 
 ---
@@ -79,25 +79,6 @@ Les sources utilisées sont référencées dans le fichier `references.bib`, not
 - [Tableaux avec gtsummary] (https://github.com/awa-d/TP10_RProject2025_TableauxAvecGtsummary)
 
 - [Automatisation des rapports avec R : le package rmarkdown] (https://github.com/dior204/Theme13-Autonomisation-des-rapports-avec-R-Le-package-Rmarkdown)
-
-
----
-
-## 📁 Arborescence du Projet
-
-DevProjetStatAvecR2025/
-│
-├── data/                  → Données sources (Stata, shapefiles)
-│
-├── script/                → Fichiers R et R Markdown
-│
-├── output/                → Résultats produits (rapports, tableaux)
-│
-├── figures/               → Graphiques et images
-│
-└── documentation/         → Questionnaires, indicateurs, notes, README
-
-  
 
 ---
 
