@@ -9,7 +9,7 @@
 Ce projet explore et visualise des indicateurs clés liés à la **sécurité alimentaire**, à la **nutrition** et à la **résilience des ménages**. En utilisant des données d’enquêtes socioéconomiques, nous produisons des tableaux descriptifs, des cartes thématiques et des visualisations interactives. L’approche repose sur les outils du **tidyverse**, **janitor**, **gtsummary**, **officer**, entre autres.
 
 ---
-## État d’avancement de l’examen (11 mai 2025)
+## État d’avancement de l’examen (12 mai 2025)
 
 | Étape | Description | Statut |
 |-------|-------------|--------|
