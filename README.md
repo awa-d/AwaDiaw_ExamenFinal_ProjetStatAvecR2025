@@ -9,18 +9,18 @@
 Ce projet explore et visualise des indicateurs clés liés à la **sécurité alimentaire**, à la **nutrition** et à la **résilience des ménages**. En utilisant des données d’enquêtes socioéconomiques, nous produisons des tableaux descriptifs, des cartes thématiques. L’approche repose sur les outils du **tidyverse**, **janitor**, **gtsummary**, **officer**, entre autres.
 
 ---
-## État d’avancement de l’examen (18 mai 2025)
+## État d’avancement de l’examen (20 mai 2025)
 
 | Étape | Description | Statut |
 |-------|-------------|--------|
 | 1 | Calcul des indicateurs | ✅ OK |
-| 2 | Analyse comparative des indicateurs selon le genre du chef de ménage | ❌ NON |
-| 3 | Proposition d’un outil de visualisation des indicateurs (R Shiny) | ❌ NON |
+| 2 | Analyse comparative des indicateurs selon le genre du chef de ménage | ✅ OK |
+| 3 | Proposition d’un outil de visualisation des indicateurs (R Shiny) | ❌ NON (plus tard)|
 | 4 | Mise à jour du livrable (output Word) | ✅ Dernière version uploaded |
 
 ### Amélioration :
-- Corriger les cartes pour les stratégies de survie
-- 
+- Better the code efficiency
+- R shiny asap
 ---
 ## 👤 Auteur
 
